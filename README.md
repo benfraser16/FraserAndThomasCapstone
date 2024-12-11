@@ -6,7 +6,7 @@ Student ID: 2390802 and 2398529
 December 13th, 2024
 MGSC 410: Frenzel
 
-The sample dataset, "Final Dataset Sample" is a CSV file in our repository and will be used for Shiny-Leaflet-Drug-Categories Final Code.R
+The sample dataset, "Final Dataset Sample" is a CSV file in our repository and will be used for Shiny-Leaflet-Drug-Categories Final Code.R. The code is separated into three sections. The first section is the sample dataset, which includes key variables such as price per pill, male or female, and drug categorization to demonstrate the importance of these variables. The second section is the interactable Leaflet Map, which allows the user to better understand the state data. The last piece of code included is the final Shiny App. NOTE: Each code set must be run separately but is included in the same codebase for simplicity and readability. 
 
 
 MedaVista Dataset: dataset_state_000
