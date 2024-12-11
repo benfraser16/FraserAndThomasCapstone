@@ -6,14 +6,19 @@ Student ID: 2390802 and 2398529
 December 13th, 2024
 MGSC 410: Frenzel
 
+The sample dataset, "Final Dataset Sample" is a CSV file in our repository and will be used for Shiny-Leaflet-Drug-Categories Final Code.R
+
 
 MedaVista Dataset: dataset_state_000
+This is our cleaned and modified dataset of 9.6 million rows after our RedShift data processing. The dataset used in this project is available for download from Google Drive. 
+This dataset is used only for the "FinalDataset.R"!!! 
 
-This is our cleaned and modified dataset of 9.6 million rows after our RedShift data processing. The dataset used in this project is available for download from Google Drive. You can access it via the following link:
+You can access it via the following link:
 
 https://drive.google.com/file/d/1M5N1nZfQiK4Uh5hjqsYYFi55YHTA6PLd/view?usp=drive_link
 
 Please note that the dataset may be large, and you may need a Google account to download it.
+
 
 
 No expected issues within our code.
