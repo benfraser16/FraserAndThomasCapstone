@@ -17,7 +17,7 @@ You can access it via the following link:
 
 https://drive.google.com/file/d/1M5N1nZfQiK4Uh5hjqsYYFi55YHTA6PLd/view?usp=drive_link
 
-Please note that the dataset may be large, and you may need a Google account to download it.
+Please note that the dataset may be large, and you may need a Google account to download it. Once downloaded, save this to your local computer and edit the path to your specific path.
 
 
 
